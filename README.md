@@ -1,2 +1,2 @@
-# DevOps
-This is a repo for DevOps Assignment 4
+# DevOps Assignment 
+this is for devOps Assignment4 
